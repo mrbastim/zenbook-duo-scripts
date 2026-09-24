@@ -1,0 +1,541 @@
+янв 25 14:38:17 timur-zenbook-ux482eg systemd[1]: Started asus-hotkeys.service - ASUS ZenBook Duo Hotkey Daemon.
+янв 25 14:42:13 timur-zenbook-ux482eg sudo[5908]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:13 timur-zenbook-ux482eg sudo[5908]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:13 timur-zenbook-ux482eg python3[5912]: Authorization required, but no authorization protocol specified
+янв 25 14:42:13 timur-zenbook-ux482eg python3[5912]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:13 timur-zenbook-ux482eg python3[5912]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:13 timur-zenbook-ux482eg python3[5912]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:13 timur-zenbook-ux482eg python3[5912]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:13 timur-zenbook-ux482eg python3[5912]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:14 timur-zenbook-ux482eg sudo[5924]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:14 timur-zenbook-ux482eg sudo[5924]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:14 timur-zenbook-ux482eg python3[5930]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:14 timur-zenbook-ux482eg python3[5931]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script0'
+янв 25 14:42:14 timur-zenbook-ux482eg sudo[5924]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:14 timur-zenbook-ux482eg sudo[5953]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:14 timur-zenbook-ux482eg sudo[5953]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:14 timur-zenbook-ux482eg python3[5957]: Authorization required, but no authorization protocol specified
+янв 25 14:42:14 timur-zenbook-ux482eg python3[5957]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:14 timur-zenbook-ux482eg python3[5957]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:14 timur-zenbook-ux482eg python3[5957]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:14 timur-zenbook-ux482eg python3[5957]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:14 timur-zenbook-ux482eg python3[5957]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:15 timur-zenbook-ux482eg sudo[5962]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:15 timur-zenbook-ux482eg sudo[5962]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5966]: Authorization required, but no authorization protocol specified
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5966]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5966]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5966]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5966]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5966]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:15 timur-zenbook-ux482eg sudo[5971]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:15 timur-zenbook-ux482eg sudo[5971]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5977]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5978]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script1'
+янв 25 14:42:15 timur-zenbook-ux482eg sudo[5971]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:15 timur-zenbook-ux482eg sudo[5980]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:15 timur-zenbook-ux482eg sudo[5980]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5986]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5987]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script2'
+янв 25 14:42:15 timur-zenbook-ux482eg sudo[5980]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:15 timur-zenbook-ux482eg sudo[5990]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:15 timur-zenbook-ux482eg sudo[5990]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5994]: Authorization required, but no authorization protocol specified
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5994]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5994]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5994]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5994]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5994]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5999]: Authorization required, but no authorization protocol specified
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5999]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5999]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5999]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5999]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:15 timur-zenbook-ux482eg python3[5999]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:15 timur-zenbook-ux482eg sudo[6007]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:15 timur-zenbook-ux482eg sudo[6007]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:15 timur-zenbook-ux482eg python3[6013]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:15 timur-zenbook-ux482eg python3[6014]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script3'
+янв 25 14:42:15 timur-zenbook-ux482eg sudo[6007]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:16 timur-zenbook-ux482eg sudo[6016]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:16 timur-zenbook-ux482eg sudo[6016]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6020]: Authorization required, but no authorization protocol specified
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6020]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6020]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6020]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6020]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6020]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:16 timur-zenbook-ux482eg sudo[6025]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:16 timur-zenbook-ux482eg sudo[6025]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6029]: Authorization required, but no authorization protocol specified
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6029]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6029]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6029]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6029]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6029]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:16 timur-zenbook-ux482eg sudo[6034]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:16 timur-zenbook-ux482eg sudo[6034]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6040]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6041]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script4'
+янв 25 14:42:16 timur-zenbook-ux482eg sudo[6034]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6043]: Authorization required, but no authorization protocol specified
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6043]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6043]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6043]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6043]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6043]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:16 timur-zenbook-ux482eg sudo[6049]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:16 timur-zenbook-ux482eg sudo[6049]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6053]: Authorization required, but no authorization protocol specified
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6053]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6053]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6053]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6053]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:16 timur-zenbook-ux482eg python3[6053]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:17 timur-zenbook-ux482eg sudo[6058]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:17 timur-zenbook-ux482eg sudo[6058]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6064]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6065]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script5'
+янв 25 14:42:17 timur-zenbook-ux482eg sudo[6058]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:17 timur-zenbook-ux482eg sudo[6067]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:17 timur-zenbook-ux482eg sudo[6067]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:17 timur-zenbook-ux482eg sudo[6069]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:17 timur-zenbook-ux482eg sudo[6069]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6081]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6082]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script6'
+янв 25 14:42:17 timur-zenbook-ux482eg sudo[6069]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6074]: Authorization required, but no authorization protocol specified
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6074]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6074]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6074]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6074]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6074]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6085]: Authorization required, but no authorization protocol specified
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6085]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6085]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6085]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6085]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6085]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:17 timur-zenbook-ux482eg sudo[6091]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:17 timur-zenbook-ux482eg sudo[6091]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:17 timur-zenbook-ux482eg sudo[6093]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:17 timur-zenbook-ux482eg sudo[6093]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6105]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6106]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script7'
+янв 25 14:42:17 timur-zenbook-ux482eg sudo[6093]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6098]: Authorization required, but no authorization protocol specified
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6098]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6098]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6098]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6098]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:17 timur-zenbook-ux482eg python3[6098]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6109]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6109]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6111]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6111]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6123]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6124]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script8'
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6111]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6117]: Authorization required, but no authorization protocol specified
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6117]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6117]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6117]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6117]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6117]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6127]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6127]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6129]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6129]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6141]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6142]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script9'
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6129]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6134]: Authorization required, but no authorization protocol specified
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6134]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6134]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6134]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6134]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6134]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6143]: Authorization required, but no authorization protocol specified
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6143]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6143]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6143]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6143]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6143]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6132]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6143 Аварийный останов         kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6144]: Updated device 'asus_screenpad':
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6144]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6144]:         Current brightness: 235 (100%)
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6144]:         Max brightness: 235
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6127]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6150]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6150]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6158]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6158]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6154]: Authorization required, but no authorization protocol specified
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6154]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6154]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6154]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6154]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6154]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6164]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6166]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script10'
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6158]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6165]: Authorization required, but no authorization protocol specified
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6165]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6165]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6165]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6165]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6165]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6152]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6165 Аварийный останов         kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6167]: Updated device 'asus_screenpad':
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6167]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6167]:         Current brightness: 235 (100%)
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6167]:         Max brightness: 235
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6150]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6172]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6172]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6174]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6174]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6186]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6187]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script11'
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6174]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6180]: Authorization required, but no authorization protocol specified
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6180]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6180]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6180]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6180]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6180]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6188]: Authorization required, but no authorization protocol specified
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6188]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6188]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6188]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6188]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6188]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6177]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6188 Аварийный останов         kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6189]: Updated device 'asus_screenpad':
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6189]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6189]:         Current brightness: 235 (100%)
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6189]:         Max brightness: 235
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6172]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6194]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6194]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6196]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6196]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6208]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6209]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script12'
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6196]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6201]: Authorization required, but no authorization protocol specified
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6201]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6201]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6201]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6201]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6201]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6210]: Authorization required, but no authorization protocol specified
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6210]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6210]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6210]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6210]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6210]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6199]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6210 Аварийный останов         kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6211]: Updated device 'asus_screenpad':
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6211]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6211]:         Current brightness: 235 (100%)
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6211]:         Max brightness: 235
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6194]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6216]: Authorization required, but no authorization protocol specified
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6216]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6216]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6216]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6216]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6216]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6222]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6222]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6226]: Authorization required, but no authorization protocol specified
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6226]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6226]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6226]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6226]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6226]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6231]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6231]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6230]: Authorization required, but no authorization protocol specified
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6230]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6230]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6230]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6230]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6230]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6224]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6230 Аварийный останов         kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6237]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6239]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script13'
+янв 25 14:42:18 timur-zenbook-ux482eg sudo[6231]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6238]: Updated device 'asus_screenpad':
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6238]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6238]:         Current brightness: 235 (100%)
+янв 25 14:42:18 timur-zenbook-ux482eg python3[6238]:         Max brightness: 235
+янв 25 14:42:19 timur-zenbook-ux482eg sudo[6222]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:19 timur-zenbook-ux482eg sudo[6244]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:19 timur-zenbook-ux482eg sudo[6244]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6248]: Authorization required, but no authorization protocol specified
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6248]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6248]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6248]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6248]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6248]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:19 timur-zenbook-ux482eg sudo[6252]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:19 timur-zenbook-ux482eg sudo[6252]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6259]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6253]: Authorization required, but no authorization protocol specified
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6253]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6253]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6253]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6253]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6253]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6260]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script14'
+янв 25 14:42:19 timur-zenbook-ux482eg sudo[6252]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6246]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6253 Аварийный останов         kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6261]: Updated device 'asus_screenpad':
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6261]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6261]:         Current brightness: 235 (100%)
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6261]:         Max brightness: 235
+янв 25 14:42:19 timur-zenbook-ux482eg sudo[6244]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:19 timur-zenbook-ux482eg python3[5910]: /home/timur/Scripts/screenpad_final.sh: строка 35:  5999 Аварийный останов         (образ памяти сброшен на диск) kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6266]: Updated device 'asus_screenpad':
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6266]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6266]:         Current brightness: 235 (100%)
+янв 25 14:42:19 timur-zenbook-ux482eg python3[6266]:         Max brightness: 235
+янв 25 14:42:19 timur-zenbook-ux482eg sudo[5908]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:20 timur-zenbook-ux482eg python3[6274]: Authorization required, but no authorization protocol specified
+янв 25 14:42:20 timur-zenbook-ux482eg python3[6274]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:20 timur-zenbook-ux482eg python3[6274]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:20 timur-zenbook-ux482eg python3[6274]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:20 timur-zenbook-ux482eg python3[6274]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:20 timur-zenbook-ux482eg python3[6274]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:21 timur-zenbook-ux482eg python3[6280]: Authorization required, but no authorization protocol specified
+янв 25 14:42:21 timur-zenbook-ux482eg python3[6280]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:21 timur-zenbook-ux482eg python3[6280]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:21 timur-zenbook-ux482eg python3[6280]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:21 timur-zenbook-ux482eg python3[6280]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:21 timur-zenbook-ux482eg python3[6280]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:22 timur-zenbook-ux482eg python3[5955]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6043 Аварийный останов         (образ памяти сброшен на диск) kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:22 timur-zenbook-ux482eg python3[6286]: Updated device 'asus_screenpad':
+янв 25 14:42:22 timur-zenbook-ux482eg python3[6286]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:22 timur-zenbook-ux482eg python3[6286]:         Current brightness: 235 (100%)
+янв 25 14:42:22 timur-zenbook-ux482eg python3[6286]:         Max brightness: 235
+янв 25 14:42:22 timur-zenbook-ux482eg sudo[5953]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:23 timur-zenbook-ux482eg python3[6294]: Authorization required, but no authorization protocol specified
+янв 25 14:42:23 timur-zenbook-ux482eg python3[6294]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:23 timur-zenbook-ux482eg python3[6294]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:23 timur-zenbook-ux482eg python3[6294]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:23 timur-zenbook-ux482eg python3[6294]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:23 timur-zenbook-ux482eg python3[6294]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:24 timur-zenbook-ux482eg python3[6301]: Authorization required, but no authorization protocol specified
+янв 25 14:42:24 timur-zenbook-ux482eg python3[6301]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:24 timur-zenbook-ux482eg python3[6301]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:24 timur-zenbook-ux482eg python3[6301]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:24 timur-zenbook-ux482eg python3[6301]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:24 timur-zenbook-ux482eg python3[6301]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:25 timur-zenbook-ux482eg python3[5964]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6085 Аварийный останов         (образ памяти сброшен на диск) kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:25 timur-zenbook-ux482eg python3[6307]: Updated device 'asus_screenpad':
+янв 25 14:42:25 timur-zenbook-ux482eg python3[6307]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:25 timur-zenbook-ux482eg python3[6307]:         Current brightness: 235 (100%)
+янв 25 14:42:25 timur-zenbook-ux482eg python3[6307]:         Max brightness: 235
+янв 25 14:42:25 timur-zenbook-ux482eg sudo[5962]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:26 timur-zenbook-ux482eg python3[6316]: Authorization required, but no authorization protocol specified
+янв 25 14:42:26 timur-zenbook-ux482eg python3[6316]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:26 timur-zenbook-ux482eg python3[6316]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:26 timur-zenbook-ux482eg python3[6316]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:26 timur-zenbook-ux482eg python3[6316]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:26 timur-zenbook-ux482eg python3[6316]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:27 timur-zenbook-ux482eg sudo[6322]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:27 timur-zenbook-ux482eg sudo[6322]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6326]: Authorization required, but no authorization protocol specified
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6326]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6326]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6326]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6326]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6326]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:27 timur-zenbook-ux482eg sudo[6331]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:27 timur-zenbook-ux482eg sudo[6331]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6335]: Authorization required, but no authorization protocol specified
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6335]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6335]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6335]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6335]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6335]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:27 timur-zenbook-ux482eg sudo[6340]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:27 timur-zenbook-ux482eg sudo[6340]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6346]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6347]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script15'
+янв 25 14:42:27 timur-zenbook-ux482eg sudo[6340]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:27 timur-zenbook-ux482eg sudo[6349]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:27 timur-zenbook-ux482eg sudo[6349]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6355]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6356]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script16'
+янв 25 14:42:27 timur-zenbook-ux482eg sudo[6349]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6358]: Authorization required, but no authorization protocol specified
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6358]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6358]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6358]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6358]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:27 timur-zenbook-ux482eg python3[6358]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:28 timur-zenbook-ux482eg sudo[6364]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:28 timur-zenbook-ux482eg sudo[6364]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:28 timur-zenbook-ux482eg python3[6368]: Authorization required, but no authorization protocol specified
+янв 25 14:42:28 timur-zenbook-ux482eg python3[6368]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:28 timur-zenbook-ux482eg python3[6368]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:28 timur-zenbook-ux482eg python3[6368]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:28 timur-zenbook-ux482eg python3[6368]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:28 timur-zenbook-ux482eg python3[6368]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:28 timur-zenbook-ux482eg python3[5992]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6216 Аварийный останов         (образ памяти сброшен на диск) kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:28 timur-zenbook-ux482eg python3[6372]: Updated device 'asus_screenpad':
+янв 25 14:42:28 timur-zenbook-ux482eg python3[6372]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:28 timur-zenbook-ux482eg python3[6372]:         Current brightness: 235 (100%)
+янв 25 14:42:28 timur-zenbook-ux482eg python3[6372]:         Max brightness: 235
+янв 25 14:42:28 timur-zenbook-ux482eg sudo[5990]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:29 timur-zenbook-ux482eg python3[6018]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6274 Аварийный останов         (образ памяти сброшен на диск) kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:29 timur-zenbook-ux482eg python3[6382]: Updated device 'asus_screenpad':
+янв 25 14:42:29 timur-zenbook-ux482eg python3[6382]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:29 timur-zenbook-ux482eg python3[6382]:         Current brightness: 235 (100%)
+янв 25 14:42:29 timur-zenbook-ux482eg python3[6382]:         Max brightness: 235
+янв 25 14:42:29 timur-zenbook-ux482eg sudo[6016]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:30 timur-zenbook-ux482eg sudo[6390]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:30 timur-zenbook-ux482eg sudo[6390]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:42:30 timur-zenbook-ux482eg python3[6396]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:42:30 timur-zenbook-ux482eg python3[6397]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script17'
+янв 25 14:42:30 timur-zenbook-ux482eg sudo[6390]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:30 timur-zenbook-ux482eg python3[6027]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6280 Аварийный останов         (образ памяти сброшен на диск) kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:30 timur-zenbook-ux482eg python3[6399]: Updated device 'asus_screenpad':
+янв 25 14:42:30 timur-zenbook-ux482eg python3[6399]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:30 timur-zenbook-ux482eg python3[6399]:         Current brightness: 235 (100%)
+янв 25 14:42:30 timur-zenbook-ux482eg python3[6399]:         Max brightness: 235
+янв 25 14:42:30 timur-zenbook-ux482eg sudo[6025]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:31 timur-zenbook-ux482eg python3[6051]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6294 Аварийный останов         (образ памяти сброшен на диск) kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:31 timur-zenbook-ux482eg python3[6413]: Updated device 'asus_screenpad':
+янв 25 14:42:31 timur-zenbook-ux482eg python3[6413]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:31 timur-zenbook-ux482eg python3[6413]:         Current brightness: 235 (100%)
+янв 25 14:42:31 timur-zenbook-ux482eg python3[6413]:         Max brightness: 235
+янв 25 14:42:32 timur-zenbook-ux482eg sudo[6049]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:33 timur-zenbook-ux482eg python3[6072]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6301 Аварийный останов         (образ памяти сброшен на диск) kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:33 timur-zenbook-ux482eg python3[6422]: Updated device 'asus_screenpad':
+янв 25 14:42:33 timur-zenbook-ux482eg python3[6422]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:33 timur-zenbook-ux482eg python3[6422]:         Current brightness: 235 (100%)
+янв 25 14:42:33 timur-zenbook-ux482eg python3[6422]:         Max brightness: 235
+янв 25 14:42:33 timur-zenbook-ux482eg sudo[6067]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:34 timur-zenbook-ux482eg python3[6096]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6316 Аварийный останов         (образ памяти сброшен на диск) kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:34 timur-zenbook-ux482eg python3[6430]: Updated device 'asus_screenpad':
+янв 25 14:42:34 timur-zenbook-ux482eg python3[6430]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:34 timur-zenbook-ux482eg python3[6430]:         Current brightness: 235 (100%)
+янв 25 14:42:34 timur-zenbook-ux482eg python3[6430]:         Max brightness: 235
+янв 25 14:42:34 timur-zenbook-ux482eg sudo[6091]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:35 timur-zenbook-ux482eg python3[6438]: Authorization required, but no authorization protocol specified
+янв 25 14:42:35 timur-zenbook-ux482eg python3[6438]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:35 timur-zenbook-ux482eg python3[6438]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:35 timur-zenbook-ux482eg python3[6438]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:35 timur-zenbook-ux482eg python3[6438]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:35 timur-zenbook-ux482eg python3[6438]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:36 timur-zenbook-ux482eg python3[6444]: Authorization required, but no authorization protocol specified
+янв 25 14:42:36 timur-zenbook-ux482eg python3[6444]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:36 timur-zenbook-ux482eg python3[6444]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:36 timur-zenbook-ux482eg python3[6444]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:36 timur-zenbook-ux482eg python3[6444]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:36 timur-zenbook-ux482eg python3[6444]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:37 timur-zenbook-ux482eg python3[6114]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6358 Аварийный останов         (образ памяти сброшен на диск) kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:37 timur-zenbook-ux482eg python3[6450]: Updated device 'asus_screenpad':
+янв 25 14:42:37 timur-zenbook-ux482eg python3[6450]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:37 timur-zenbook-ux482eg python3[6450]:         Current brightness: 235 (100%)
+янв 25 14:42:37 timur-zenbook-ux482eg python3[6450]:         Max brightness: 235
+янв 25 14:42:37 timur-zenbook-ux482eg sudo[6109]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:38 timur-zenbook-ux482eg python3[6459]: Authorization required, but no authorization protocol specified
+янв 25 14:42:38 timur-zenbook-ux482eg python3[6459]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:38 timur-zenbook-ux482eg python3[6459]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:38 timur-zenbook-ux482eg python3[6459]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:38 timur-zenbook-ux482eg python3[6459]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:38 timur-zenbook-ux482eg python3[6459]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:39 timur-zenbook-ux482eg python3[6324]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6438 Аварийный останов         (образ памяти сброшен на диск) kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:39 timur-zenbook-ux482eg python3[6465]: Updated device 'asus_screenpad':
+янв 25 14:42:39 timur-zenbook-ux482eg python3[6465]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:39 timur-zenbook-ux482eg python3[6465]:         Current brightness: 235 (100%)
+янв 25 14:42:39 timur-zenbook-ux482eg python3[6465]:         Max brightness: 235
+янв 25 14:42:39 timur-zenbook-ux482eg sudo[6322]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:40 timur-zenbook-ux482eg python3[6333]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6444 Аварийный останов         (образ памяти сброшен на диск) kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:40 timur-zenbook-ux482eg python3[6472]: Updated device 'asus_screenpad':
+янв 25 14:42:40 timur-zenbook-ux482eg python3[6472]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:40 timur-zenbook-ux482eg python3[6472]:         Current brightness: 235 (100%)
+янв 25 14:42:40 timur-zenbook-ux482eg python3[6472]:         Max brightness: 235
+янв 25 14:42:40 timur-zenbook-ux482eg sudo[6331]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:41 timur-zenbook-ux482eg python3[6366]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6459 Аварийный останов         (образ памяти сброшен на диск) kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:41 timur-zenbook-ux482eg python3[6480]: Updated device 'asus_screenpad':
+янв 25 14:42:41 timur-zenbook-ux482eg python3[6480]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:41 timur-zenbook-ux482eg python3[6480]:         Current brightness: 235 (100%)
+янв 25 14:42:41 timur-zenbook-ux482eg python3[6480]:         Max brightness: 235
+янв 25 14:42:41 timur-zenbook-ux482eg sudo[6364]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:42:50 timur-zenbook-ux482eg sudo[6518]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:42:50 timur-zenbook-ux482eg sudo[6518]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:42:50 timur-zenbook-ux482eg python3[6522]: Authorization required, but no authorization protocol specified
+янв 25 14:42:50 timur-zenbook-ux482eg python3[6522]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:50 timur-zenbook-ux482eg python3[6522]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:50 timur-zenbook-ux482eg python3[6522]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:50 timur-zenbook-ux482eg python3[6522]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:50 timur-zenbook-ux482eg python3[6522]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:51 timur-zenbook-ux482eg python3[6530]: Authorization required, but no authorization protocol specified
+янв 25 14:42:51 timur-zenbook-ux482eg python3[6530]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:42:51 timur-zenbook-ux482eg python3[6530]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:42:51 timur-zenbook-ux482eg python3[6530]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:42:51 timur-zenbook-ux482eg python3[6530]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:42:51 timur-zenbook-ux482eg python3[6530]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:42:52 timur-zenbook-ux482eg python3[6520]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6530 Аварийный останов         (образ памяти сброшен на диск) kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:42:52 timur-zenbook-ux482eg python3[6536]: Updated device 'asus_screenpad':
+янв 25 14:42:52 timur-zenbook-ux482eg python3[6536]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:42:52 timur-zenbook-ux482eg python3[6536]:         Current brightness: 235 (100%)
+янв 25 14:42:52 timur-zenbook-ux482eg python3[6536]:         Max brightness: 235
+янв 25 14:42:52 timur-zenbook-ux482eg sudo[6518]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:43:13 timur-zenbook-ux482eg sudo[6570]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:43:13 timur-zenbook-ux482eg sudo[6570]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:43:13 timur-zenbook-ux482eg python3[6574]: Authorization required, but no authorization protocol specified
+янв 25 14:43:13 timur-zenbook-ux482eg python3[6574]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:43:13 timur-zenbook-ux482eg python3[6574]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:43:13 timur-zenbook-ux482eg python3[6574]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:43:13 timur-zenbook-ux482eg python3[6574]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:43:13 timur-zenbook-ux482eg python3[6574]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:43:13 timur-zenbook-ux482eg sudo[6586]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:43:13 timur-zenbook-ux482eg sudo[6586]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:43:13 timur-zenbook-ux482eg python3[6592]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:43:13 timur-zenbook-ux482eg python3[6593]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script18'
+янв 25 14:43:13 timur-zenbook-ux482eg sudo[6586]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:43:14 timur-zenbook-ux482eg python3[6594]: Authorization required, but no authorization protocol specified
+янв 25 14:43:14 timur-zenbook-ux482eg python3[6594]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:43:14 timur-zenbook-ux482eg python3[6594]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:43:14 timur-zenbook-ux482eg python3[6594]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:43:14 timur-zenbook-ux482eg python3[6594]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:43:14 timur-zenbook-ux482eg python3[6594]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:43:15 timur-zenbook-ux482eg python3[6572]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6594 Аварийный останов         (образ памяти сброшен на диск) kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:43:15 timur-zenbook-ux482eg python3[6600]: Updated device 'asus_screenpad':
+янв 25 14:43:15 timur-zenbook-ux482eg python3[6600]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:43:15 timur-zenbook-ux482eg python3[6600]:         Current brightness: 235 (100%)
+янв 25 14:43:15 timur-zenbook-ux482eg python3[6600]:         Max brightness: 235
+янв 25 14:43:15 timur-zenbook-ux482eg sudo[6570]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:43:36 timur-zenbook-ux482eg sudo[6630]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:43:36 timur-zenbook-ux482eg sudo[6630]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/screenpad_final.sh
+янв 25 14:43:36 timur-zenbook-ux482eg python3[6634]: Authorization required, but no authorization protocol specified
+янв 25 14:43:36 timur-zenbook-ux482eg python3[6634]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:43:36 timur-zenbook-ux482eg python3[6634]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:43:36 timur-zenbook-ux482eg python3[6634]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:43:36 timur-zenbook-ux482eg python3[6634]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:43:36 timur-zenbook-ux482eg python3[6634]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:43:37 timur-zenbook-ux482eg sudo[6646]: pam_unix(sudo:session): session opened for user timur(uid=1000) by (uid=0)
+янв 25 14:43:37 timur-zenbook-ux482eg sudo[6646]: root :  PWD=/ ; USER=timur ; COMMAND=/home/timur/Scripts/swap_windows.sh
+янв 25 14:43:37 timur-zenbook-ux482eg python3[6652]: Error org.freedesktop.DBus.Error.UnknownObject: No such object path '/Scripting/Scriptreturn'
+янв 25 14:43:37 timur-zenbook-ux482eg python3[6653]: Error org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.kde.kwin.Scripting' at object path '/Scripting/Script19'
+янв 25 14:43:37 timur-zenbook-ux482eg sudo[6646]: pam_unix(sudo:session): session closed for user timur
+янв 25 14:43:37 timur-zenbook-ux482eg python3[6654]: Authorization required, but no authorization protocol specified
+янв 25 14:43:37 timur-zenbook-ux482eg python3[6654]: qt.qpa.xcb: could not connect to display :0
+янв 25 14:43:37 timur-zenbook-ux482eg python3[6654]: qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
+янв 25 14:43:37 timur-zenbook-ux482eg python3[6654]: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+янв 25 14:43:37 timur-zenbook-ux482eg python3[6654]: This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+янв 25 14:43:37 timur-zenbook-ux482eg python3[6654]: Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vkkhrdisplay, vnc, wayland-egl, wayland, xcb.
+янв 25 14:43:38 timur-zenbook-ux482eg python3[6632]: /home/timur/Scripts/screenpad_final.sh: строка 35:  6654 Аварийный останов         (образ памяти сброшен на диск) kscreen-doctor output.$VIDEO_NAME.enable output.$VIDEO_NAME.mode.$VIDEO_MODE output.$VIDEO_NAME.position.$POS
+янв 25 14:43:38 timur-zenbook-ux482eg python3[6660]: Updated device 'asus_screenpad':
+янв 25 14:43:38 timur-zenbook-ux482eg python3[6660]: Device 'asus_screenpad' of class 'backlight':
+янв 25 14:43:38 timur-zenbook-ux482eg python3[6660]:         Current brightness: 235 (100%)
+янв 25 14:43:38 timur-zenbook-ux482eg python3[6660]:         Max brightness: 235
+янв 25 14:43:38 timur-zenbook-ux482eg sudo[6630]: pam_unix(sudo:session): session closed for user timur
